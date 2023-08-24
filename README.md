@@ -1,7 +1,8 @@
 ### Tugas Praktikum Proyek Perangkat Lunak
 
-Tugas ini bertujuan untuk mengukur tingkat pemahaman mahasiswa dalam menggunakan Git sebagai Version Control System (VCS). 
+Tugas ini bertujuan untuk mengukur tingkat pemahaman mahasiswa dalam menggunakan Git sebagai Version Control System (VCS).
 Berikut tata cara pengerjaan soal:
+
 1. Clone repository ini dengan perintah `git clone <url repository>`
 2. Isi biodata dan jawab soal pada file yang tertera
 3. Tambahkan satu file (.txt) berisi deskripsi salah satu metode pengujian perangkat lunak
